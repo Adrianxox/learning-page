@@ -227,9 +227,7 @@ section, footer {
 
 /*===== Header =====*/
 header {
-    background: 
-    url(../image/1080p.mp4)
-    no-repeat center;
+   
     background-size: cover;
     padding: 1.5em 1.5em 2.5em 1.5em;
 }
