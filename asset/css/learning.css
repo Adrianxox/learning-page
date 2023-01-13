@@ -16,12 +16,6 @@
 }
 
 
-
-
-
-
-
-
 .back-video {
     position: absolute;
     right: 0;
@@ -225,17 +219,15 @@ section, footer {
 }
 
 
+
+
+
 /*===== Header =====*/
 header {
    
     background-size: cover;
     padding: 1.5em 1.5em 2.5em 1.5em;
 }
-
-
-
-
-
 
 
 
@@ -603,9 +595,6 @@ footer {
 
   
   
-
-
-
 @keyframes expand {
     50% {
         transform: scale(1.1);
